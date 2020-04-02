@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html lang="en-US">
-
 <head>
     <title>Climate Credits</title>
 </head>
 
 <body>
-    <p>Helena en Quirijn zijn toffe peren!</p>
+    <h1>Helena en Quirijn zijn toffe peren!</h1>
+    <p>En dit is een keigaaf project</p>
 </body>
-
-</html>
