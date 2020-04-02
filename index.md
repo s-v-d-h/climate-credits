@@ -6,7 +6,7 @@
 </head>
 
 <body>
-    <<p>Helena en Quirijn zijn toffe peren!</p>
+    <p>Helena en Quirijn zijn toffe peren!</p>
 </body>
 
 </html>
